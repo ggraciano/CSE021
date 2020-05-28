@@ -1,6 +1,6 @@
 # CSE021 - Introduction to Computing II
 
-This repository contains lab assignments and a projects designed to present modern topics in computer science such as object-oriented programming, recursion, and data manipulation. Written in Java, the lab assignments and projects correspond with the following tasks:
+This repository contains lab assignments and projects designed to present modern topics in computer science such as object-oriented programming, recursion, and data manipulation. Written in Java, the lab assignments and projects correspond with the following tasks:
 
 1. lab_01 - Knowledge check
 2. lab_02 - Estimating prices
